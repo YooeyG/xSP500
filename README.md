@@ -11,6 +11,6 @@ Commit the file:
 Click on 'Commit changes'.
 
 
-## SAVE COMPUTER UPLOAD
+## SAVE TO COMPUTER FROM GIT
 1. Download the file
 2. Save in C:\Users\ryan.murphy1\OneDrive - OneWorkplace\Desktop\Quantra
