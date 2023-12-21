@@ -9,3 +9,8 @@ Drag and drop your script file or choose it from your computer.
 Commit the file:
 5. Add a commit message, like "Initial commit" or "Adding my_script.py".
 Click on 'Commit changes'.
+
+
+## SAVE COMPUTER UPLOAD
+1. Download the file
+2. Save in C:\Users\ryan.murphy1\OneDrive - OneWorkplace\Desktop\Quantra
